@@ -1,3 +1,5 @@
-# Implemented Portscan with Python 3
-Portscan
-by Luana
+# Implemented socket Portscan TCP with Python 3
+# Socket Portscan TCP Python 3
+
+
+**by LuanaFM**
